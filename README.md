@@ -1,2 +1,2 @@
 # Sistemas_Operativos
-Ejercicios y Examnen
+Ejercicios y Examenes

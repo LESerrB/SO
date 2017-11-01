@@ -1,0 +1,28 @@
+desplegar propiedades de los hilos
+
+escribir un programa concurrente que ejecute 3 hilos
+que ejecute 3 hilos cada uno imprima en pantalla
+su nombre, su id y su prioridad
+
+ run:
+
+ID del hilo principal: 1 
+Termino el Hilo Principal....
+		Soy el Thread-0 con prioridad 10 Mi ID es: 9
+
+		*/
+
+
+clases a usar:(METODOS)
+	-getName()
+	-getPriority()
+	-getId()
+
+ATRIBUTOS
+
+MAX_PRIORITY
+MIN_PRIORITY
+NORM_PRIORITY <----5
+
+
+SetPriority();

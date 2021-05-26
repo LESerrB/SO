@@ -1,2 +1,2 @@
 # Sistemas Operativos
-Ejercicios y Examenes
+Ejercicios y Examenes de la clase de sistemas operativos realizados con Java

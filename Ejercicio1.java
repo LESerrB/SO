@@ -1,4 +1,4 @@
-/*Edesplegar propiedades de los hilos
+/*Desplegar propiedades de los hilos
 
 escribir un programa concurrente que ejecute 3 hilos
 que ejecute 3 hilos cada uno imprima en pantalla
